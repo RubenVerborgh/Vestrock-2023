@@ -66,6 +66,10 @@ p.venue {
   background-color: rgba(255, 255, 255, .5);
 }
 
+.slide figure.cover.height.margin > :only-child {
+  height: 88%
+}
+
 .slide figure.cover.width.margin > :first-child {
   width: 88%
 }
